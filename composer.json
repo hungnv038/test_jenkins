@@ -1,0 +1,15 @@
+{
+  "name": "test_jenkins/test_jenkins",
+  "description": "description_text",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "*"
+  }
+}
